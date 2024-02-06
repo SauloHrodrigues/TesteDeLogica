@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dasafio_MaiorIdade {
+public class DasafioMaiorIdade {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Integer idade;

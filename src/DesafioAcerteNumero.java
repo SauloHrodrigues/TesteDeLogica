@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AcerteNumero {
+public class DesafioAcerteNumero {
     public static void main(String[] args) {
         Integer numero=0;
         Scanner input = new Scanner(System.in);

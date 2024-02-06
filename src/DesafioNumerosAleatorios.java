@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class NumerosAleatorios {
+public class DesafioNumerosAleatorios {
     public static void main(String[] args) {
         System.out.println("Gerando dez números Aleatórios ");
         Random aleatorio = new Random();

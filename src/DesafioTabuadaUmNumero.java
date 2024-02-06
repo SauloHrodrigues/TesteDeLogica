@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TabuadaUmNumero {
+public class DesafioTabuadaUmNumero {
     public static void main(String[] args) {
         Integer tabuada;
         Scanner input = new Scanner(System.in);

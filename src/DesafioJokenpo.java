@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Jokenpo {
+public class DesafioJokenpo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Random aleatorio = new Random();
